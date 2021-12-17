@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <BaseURL>http://automationpractice.com/index.php</BaseURL>
+    <Login>testukris@gmail.com</Login>
+    <Password>ukrisTest232323</Password>
+</Settings>

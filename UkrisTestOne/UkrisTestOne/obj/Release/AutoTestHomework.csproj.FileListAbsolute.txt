@@ -1,0 +1,17 @@
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/NUnit3.TestAdapter.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/NUnit3.TestAdapter.pdb
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/nunit.engine.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/nunit.engine.api.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/nunit.engine.core.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/testcentric.engine.metadata.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/AutoTestHomework.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/AutoTestHomework.pdb
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/nunit.framework.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/WebDriver.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/WebDriver.Support.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/bin/Release/nunit.framework.xml
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/obj/Release/AutoTestHomework.csprojAssemblyReference.cache
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/obj/Release/AutoTestHomework.csproj.CoreCompileInputs.cache
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/obj/Release/AutoTestHomework.csproj.CopyComplete
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/obj/Release/AutoTestHomework.dll
+/Users/svetlanasafonova/RiderProjects/AutoTestHomework/AutoTestHomework/obj/Release/AutoTestHomework.pdb
